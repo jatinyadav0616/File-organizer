@@ -29,8 +29,6 @@ Before:
 resume.pdf  photo.png  movie.mp4  code.py  notes.txt
 
 After running the script:
-
-
 📁 pdf
    └── resume.pdf
 📁 png
